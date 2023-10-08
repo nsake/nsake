@@ -17,6 +17,7 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.io-010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white)
  
-![I am Full-Stack JS Developer](https://nsake.github.io/profile.jpg)
+![nsake GitHub/GitLab Merged Contributions ](https://image.thum.io/get/width/1200/fullpage/maxAge/24/wait/2/https://contra-psi.vercel.app/?githubUsername=nsake&gitlabUsername=nsake-dev)
+
 
 
