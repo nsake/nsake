@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Nikita and i am Full-Stack JS Developer
+### Hi there 👋, my name is Nikita and I am Full-Stack JS Developer
 
 ## 𝗠𝘆 Current Tech Stack
 
