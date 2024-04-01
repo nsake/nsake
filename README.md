@@ -2,6 +2,11 @@
 
 ## 𝗠𝘆 Current Tech Stack
 
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -16,6 +21,11 @@
 ![RTK](https://img.shields.io/badge/ReduxSaga-999999.svg?style=for-the-badge&logo=Redux-Saga&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=GraphQL&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.io-010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+
+
  
 ![nsake GitHub/GitLab Merged Contributions ](https://image.thum.io/get/width/1200/fullpage/maxAge/24/wait/2/https://contra-psi.vercel.app/?githubUsername=nsake&gitlabUsername=nsake-dev)
 
