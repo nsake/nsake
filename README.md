@@ -40,7 +40,7 @@
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![BitBucket](https://img.shields.io/badge/BitBucket-010101?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-![GRIB2](https://img.shields.io/badge/GRIB-2?style=for-the-badge&logo=grib&logoColor=yellow)
+![GRIB2](https://img.shields.io/badge/GRIB2?style=for-the-badge&logo=grib&logoColor=yellow)
 
 
 
