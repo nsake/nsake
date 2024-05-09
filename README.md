@@ -40,6 +40,10 @@
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![BitBucket](https://img.shields.io/badge/BitBucket-010101?style=for-the-badge&logo=bitbucket&logoColor=white)
 
+![GRIB2](https://img.shields.io/badge/GRIB-2?style=for-the-badge&logo=grib&logoColor=yellow)
+
+
+
 
  
 ![nsake GitHub/GitLab Merged Contributions ](https://image.thum.io/get/width/1200/fullpage/maxAge/24/wait/2/https://contra-psi.vercel.app/?githubUsername=nsake&gitlabUsername=nsake-dev)
