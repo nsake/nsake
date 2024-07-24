@@ -1,4 +1,5 @@
 ### Hi there 👋, my name is Nikita and I am Full-Stack JS Developer
+#### Coding since 2019
 
 ## 𝗠𝘆 Current Tech Stack
 
