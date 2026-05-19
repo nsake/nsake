@@ -38,7 +38,7 @@
 ![Socket.IO](https://img.shields.io/badge/Socket.io-010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 
-![GitBlend Contributions](https://gitblend.com/api/contributions?username=nsake-dev)
+![GitBlend Contributions](https://gitblend.com/api/contributions?username=nsake)
 
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![BitBucket](https://img.shields.io/badge/BitBucket-010101?style=for-the-badge&logo=bitbucket&logoColor=white)
